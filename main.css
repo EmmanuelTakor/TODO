@@ -1,0 +1,151 @@
+/* .flexContainer{
+    height: 100vh;
+    width: 100vw;
+    background-color: wheat;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inputer{
+    height: 17vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    background-color: white;
+    height: 70vh;
+    width: 30vw;
+}
+
+input{
+    height: 15vh;
+    width: 90%;
+    margin-left: auto;
+    border-color: yellow;
+    /* text-align: center; */
+/* }
+
+
+#box{
+    height: 20vh;
+    width: 20vw;
+    background-color: honeydew;
+}
+h4{
+    color: grey;
+} */
+
+.flexContainer{
+    height: 100vh;
+    width: 100vw;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app{
+    height: 73vh;
+    width: 30vw;
+    background-color: white;
+    border-radius: 2%;
+}
+.appSection{
+    height: 78vh;
+    width: 33vw;
+    background-color: white;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    position: relative;
+}
+.one{
+    /* border: 1px solid black; */
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.one h3{
+font-family: serif;
+}
+.two{
+    height:12vh ;
+    width: 99% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inputEl{
+    /* height: 10vh;
+    width: 90%; */
+    color: grey;
+    /* text-align: start;
+    position: absolute; */
+    /* border:1px solid #ffbb00; */
+}
+textarea:focus{
+    border:1px solid #ffbb00;
+}
+
+/* i{
+    border:1px solid #ffbb00;
+} */
+.three{
+    /* background-color: cadetblue; */
+    margin-top: 5%;
+    /* height: 8vh; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+     border: none;
+     border-radius: 1px;
+    background-color: rgba(0, 0, 255, 0.925);
+    padding: 9%;
+}
+.four{
+    height: 14vh;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.096);
+    margin-bottom: 4%;
+}
+button{
+    border: none;
+  background-color: rgb(10, 8, 143);
+    /* border-radius: 20%; */
+    /* height: 4vh; */
+    width: 3vw;
+    /* padding: 0 2%;
+    padding: 2%; */
+    /* margin-left: 20%; */
+    color: white;
+    /* display: inline-block; */
+    /* position: absolute; */
+    padding: 6px;
+    border-radius: 15px;
+
+  
+}
+.fa-grin-alt{
+    color: blue;
+}
+.blue{
+    color: blue;
+}
+.fa-arrow-right{
+    color: blue;
+}
+#boxer{
+    display: none;
+}
